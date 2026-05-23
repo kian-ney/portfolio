@@ -1,11 +1,3 @@
-------------------------------------------------------------------------
-
-editor_options: markdown: wrap: 72 ---
-
-------------------------------------------------------------------------
-
-editor_options: markdown: wrap: 72 ---
-
 # Nightingale Rose Diagram Digitizer
 
 ## Overview
